@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Wielemaker
-- 🌱 I’m a 4-month intern at Potential Motors
+- 🚗 I’m a 4-month intern at Potential Motors
 
 
 <!---
